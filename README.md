@@ -15,7 +15,8 @@ The **Snake Game** is a classic arcade-style game where the player controls a sn
 ![Start Screen](images/start-screen.png)
 
 ### 🕹️ Gameplay
-![Gameplay](["C:\Users\SHRIJEET\Documents\CS50\Screenshot 2025-03-24 205414.png"](https://ibb.co/Kz78hK45))
+![Gameplay]([![Screenshot 2025-03-24 205414](https://github.com/user-attachments/assets/76ab8bd7-7f69-4085-a66d-9eeeff3c5966)
+))
 
 ### 💥 Game Over Screen
 ![Game Over](images/game-over.png)
