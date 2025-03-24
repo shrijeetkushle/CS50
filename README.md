@@ -16,7 +16,7 @@ These are the instructions for the game:
 > - ▶️ Right Arrow – Move Right
 > - ◀️ Left Arrow – Move Left
 
-(![Screenshot 2025-03-24 205902](https://github.com/user-attachments/assets/0800b9fc-1577-4693-9f75-e5141dd3847e))
+![Screenshot 2025-03-24 205902](https://github.com/user-attachments/assets/0800b9fc-1577-4693-9f75-e5141dd3847e)
 
 ---
 
