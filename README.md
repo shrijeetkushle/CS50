@@ -9,6 +9,19 @@ The **Snake Game** is a classic arcade-style game where the player controls a sn
 
 ---
 
+## 🎮 Game Previews
+
+### 🎲 Start Screen
+![Start Screen](images/start-screen.png)
+
+### 🕹️ Gameplay
+![Gameplay](images/gameplay.png)
+
+### 💥 Game Over Screen
+![Game Over](images/game-over.png)
+
+---
+
 ## 🎯 Objective
 The objective of the game is to:
 - Control the snake and eat the food to increase the score.
