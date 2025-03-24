@@ -4,7 +4,7 @@ This is a repository that keeps a record of my journey taking Harvard University
 ---
 
 ## Week 0 - Scratch
-For the problem set 0 project, I created a game using Scratch called ["Snake Game"](https://scratch.mit.edu/).  
+For the problem set 0 project, I created a game using Scratch called ["Snake Game"](https://github.com/shrijeetkushle/CS50/blob/6d261990060def9a6313321875a72549173dca36/Week%200/snakegame.sb3)).  
 These are the instructions for the game:
 
 > **Snake Game!**  
