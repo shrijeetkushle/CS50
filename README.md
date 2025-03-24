@@ -1,25 +1,34 @@
-# 🐍 Snake Game - Scratch Project
-
-Welcome to the **Snake Game** created as part of **Problem Set 0**! 🎮
+# 🐍 My CS50x Journey
+This is a repository that keeps a record of my journey taking Harvard University's popular CS50x online course taught by David J. Malan.
 
 ---
 
-## 📚 About the Game
-The **Snake Game** is a classic arcade-style game where the player controls a snake to eat food and grow longer while avoiding collisions. The game was built using [Scratch](https://scratch.mit.edu/), a block-based visual programming language.
+## Week 0 - Scratch
+For the problem set 0 project, I created a game using Scratch called ["Snake Game"](https://scratch.mit.edu/).  
+These are the instructions for the game:
+
+> **Snake Game!**
+> 
+> Control a snake to eat food and grow longer while avoiding collisions with the walls and itself.  
+> 
+> **Key Binds:**
+> - 🔼 Up Arrow – Move Up
+> - 🔽 Down Arrow – Move Down
+> - ▶️ Right Arrow – Move Right
+> - ◀️ Left Arrow – Move Left
 
 ---
 
 ## 🎮 Game Previews
 
 ### 🎲 Start Screen
-![Gameplay]([![Screenshot 2025-03-24 205414](https://github.com/user-attachments/assets/76ab8bd7-7f69-4085-a66d-9eeeff3c5966)
+<img src="https://github.com/user-attachments/assets/76ab8bd7-7f69-4085-a66d-9eeeff3c5966" alt="Start Screen" width="500"/>
 
 ### 🕹️ Gameplay
-![Screenshot 2025-03-24 205902](https://github.com/user-attachments/assets/470a4179-f1fd-43f3-aa47-3defcf8a5be9)
-
+<img src="https://github.com/user-attachments/assets/470a4179-f1fd-43f3-aa47-3defcf8a5be9" alt="Gameplay" width="500"/>
 
 ### 💥 Game Over Screen
-![Game Over](images/game-over.png)
+<img src="images/game-over.png" alt="Game Over Screen" width="500"/>
 
 ---
 
