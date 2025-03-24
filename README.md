@@ -8,7 +8,7 @@ For the problem set 0 project, I created a game using Scratch called ["Snake Gam
 These are the instructions for the game:
 
 > **Snake Game!**  
-> Control a snake to eat food and grow longer while avoiding collisions with the walls and itself.  
+> Control a snake to eat food and grow longer while avoiding collisions with the walls.  
 > 
 > **Key Binds:**
 > - 🔼 Up Arrow – Move Up
