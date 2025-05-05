@@ -29,7 +29,6 @@ int main(int argc, char *argv[])
         printf("Could not open output file.\n");
         return 1;
     }
-
     float factor = atof(argv[3]);
 
     // Copy header from input file to output file
